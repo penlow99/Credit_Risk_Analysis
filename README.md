@@ -89,3 +89,10 @@ Using a provided credit card dataset, various resampling models were used to acc
 
     ![EasyEnsembleClassifier Report](images/EasyEnsembleClassifier_report.png) 
 
+---
+
+## SUMMARY
+
+In conclusion, it can be said that the ensemble classifiers vastly outperformed their more basic counterparts in both accuracy and recall scores. All models returned 99% precision, as the dataset was extremely lopsided towards low-risk applications.
+
+The EasyEnsembleClassifier model returned the best scores, and therefore would be the recommended model to use going forward.
